@@ -1,0 +1,16 @@
+body{background-color: antiquewhite;
+margin: 0;
+padding: 0;
+}
+img{width: 500px;
+height: 600px;}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul li{display: inline;
+margin-right: 10px;
+}
+ul li a{color: black;}
+ul li a:hover{text-decoration: overline;}
